@@ -1,7 +1,7 @@
 # *ATP Ranking*
 ## Top 1 ^ Top 10
 
-1.  Jannik Sinner 🇮🇹 <img src="”sinner.jpg”" />
+1.  Jannik Sinner 🇮🇹  <img src="../sinner.jpg" alt="" width="50" height="50" />
 2.  Alexander Zverev 🇩🇪
 3.  Carlos Alcaraz 🇪🇸
 4.  Novak Djokiovic 🇷🇸
