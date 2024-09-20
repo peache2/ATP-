@@ -1,20 +1,13 @@
 # *ATP Ranking*
-## Top 1 ^
-1. Jannik Sinner 🇮🇹
-2. Alexander Zverev 🇩🇪
-3. Carlos Alcaraz 🇪🇸
-4. Novak Djokiovic 🇷🇸
-5. Daniil Medveded 🇺🇳
+## Top 1 ^ Top 10
 
-
+1.  Jannik Sinner 🇮🇹 <img src="ATP/sinner.png">   
+2.  Alexander Zverev 🇩🇪
+3.  Carlos Alcaraz 🇪🇸
+4.  Novak Djokiovic 🇷🇸
+5.  Daniil Medveded 🇺🇳
+6.  Andrey Rublev 🇺🇳
+7.  Taylor Fritz🇺🇸
+                           
 També podeu afegir [enllaços](https://www.exemple.com) i mostrar imatges:
 
-![Imatge d'exemple](https://www.ejemplo.com/imagen.jpg)
-
-Podeu ressaltar el text en *cursiva* o **negreta** segons les vostres necessitats.
-
-```javascript
-// Aquest és un bloc de codi
-exemple de funció () {
-     // Exemple de codi
-}
