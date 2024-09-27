@@ -10,5 +10,5 @@
 7.  *Taylor Fritz* 🇺🇸       <img src="../fritz.png" alt="" width="50" height="50" />
    
                             
-També podeu afegir [enllaços](https://www.atptour.com/es/players?matchType=Singles&rank=Top%2010&region=all) i mostrar imatges:
+També podeu afegir [enllaços]((https://github.com/peache2/FirstContact/blob/main/atp.md)) i mostrar imatges:
 
