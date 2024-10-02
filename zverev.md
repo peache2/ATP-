@@ -1,9 +1,9 @@
 # ALEXANDER ZVEREV
 ## Alemania 🇮🇹
-#### Edad: 23 (2001/08/16)
-#### Peso: 170 lbs (77kg)
-#### Estatura: 6'3" (191cm)
-#### Profesional desde: 2018
-##### [Mejores jugadas y puntos](https://www.youtube.com/watch?v=4-6A0zYWxos)
-<img src="sinner_full.png" alt="" >
+#### Edad 27 (1997/04/20)
+#### Peso 198 lbs (90kg)
+#### Estatura 6'6" (198cm)
+#### Profesional desde 2013
+##### [Mejores jugadas y puntos](https://youtu.be/TcPH8phpmaI?si=KfLiDnNXH61D2thv)
+<img src="zverev.png" alt="" >
 
