@@ -5,5 +5,5 @@
 #### Estatura 6'6" (198cm)
 #### Profesional desde 2013
 ##### [Mejores jugadas y puntos](https://youtu.be/TcPH8phpmaI?si=KfLiDnNXH61D2thv)
-<img src="zverev.png" alt="" >
+<img src="zverev.png" alt="" width="500" height="500" />
 
